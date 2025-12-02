@@ -165,7 +165,7 @@ O pipeline é acionado em pushes na branch principal, sempre que arquivos essenc
 * Dockerfile
 * pom.xml
 * src/**
-* o próprio `up.yml`
+* o próprio `main.yml`
 
 Funções do pipeline:
 
