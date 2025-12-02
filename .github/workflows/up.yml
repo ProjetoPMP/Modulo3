@@ -8,7 +8,7 @@ on:
       - 'Dockerfile'
       - 'pom.xml'
       - 'src/**'
-      - '.github/workflows/docker-publish.yml'
+      - '.github/workflows/up.yml'
 
 jobs:
   build-and-push:
